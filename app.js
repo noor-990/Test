@@ -1,1 +1,2 @@
-const name = "sasi"
+const name = "sasi ";
+console.log(name);
